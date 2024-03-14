@@ -1,0 +1,132 @@
+h3 {
+color: #3cff2d;
+font-size: 30px;
+font-family: cursive;
+text-transform: capitalize;
+text-shadow:
+3px 3px 0 #000,
+-1px -1px 0 #000,
+1px -1px 0 #000,
+-1px 1px 0 #000,
+1px 1px 0 #000;
+
+}
+
+h4 {
+color: white;
+}
+
+strong {
+color: #3cff2d;
+}
+
+body {
+background-image: url("/images/check3.jpg");
+background-size: 100% 50%;
+background-repeat: repeat-y;
+margin: auto;
+}
+
+.center {
+text-align: center;
+margin: auto;
+}
+
+#images {
+width: 23%;
+height: 300px;
+}
+
+.image {
+width: 30%;
+}
+
+.image1 {
+  width: 50%;
+}
+
+nav {
+font-weight: bold;
+float: right;
+list-style-type: none;
+margin: 10%;
+padding-left: 0%;
+white-space: nowrap;
+width: 30%;
+font-size: 1.5vh;
+}
+
+li::marker {
+color: white;
+}
+
+.ql {
+color: #3cff2d;
+font-weight: bold;
+text-transform: capitalize;
+font-family: cursive;
+}
+
+ol li{
+text-shadow:
+3px 3px 0 #000,
+-1px -1px 0 #000,
+1px -1px 0 #000,
+-1px 1px 0 #000,
+1px 1px 0 #000;
+}
+
+p {
+color: white;
+font-size: 15px;
+margin: 20px;
+}
+
+footer {
+font-weight: bold;
+}
+
+table {
+background-color: black;
+color: white;
+font-weight: bold;
+width: 75%;
+border: 2px solid red;
+text-align: center;
+}
+
+footer {
+font-weight: bold;
+color: white;
+}
+th {
+font-family: cursive;
+text-transform: capitalize;
+}
+
+th, td {
+border: 2px solid #3cff2d;
+font-size: 1.5em;
+}
+
+#td, #td td {
+border: 2px solid #3cff2d;
+font-size: 1em;
+}
+
+a {
+color: #ffa10d;
+font-weight: bold;
+}
+
+#top {
+text-align: center;
+}
+
+h1, h2, h5 {
+color: White;
+}
+
+form input {
+  width: 75%;
+}
