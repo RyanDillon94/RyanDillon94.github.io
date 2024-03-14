@@ -1,0 +1,3 @@
+[build]
+  base ="https://github.com/RyanDillon94/GymPageTest"
+  publish = "src/"
